@@ -7,9 +7,9 @@ I got introduced to computing skills and software development for the first time
 - #### For Maternity
   I have created a web-based application using Django called "ForMaternity". The aim of which is to provide pregnant women with information and guidence to help them get through pregnancy healthily. The app allows users to track their pregnancy(by indicating how far along they are by updating the weeks depending on the week of pregnancy they provided when they started to track the pregnacy on the app and the date), users (those registered as pregnant) have access to perinatal health information including nutrion, pregnancy weight gain guidelines and are able to track their weight gain journey throughout pregnancy utilising the quidelines and a pregnancy weight gain calculator, in addition, they are able to request a consultation appointment with Dieticians and/or Counsellors (The app allows users to register as Perinatal Dieticians and Counsellors). The users registered as dieticians and counsellors have access to the requests pages for diet-consultation and counselling, respectfully. Dieticians and Counsellors also have permission to accept and attend to the requests. Another feature is for pregnant women, which includes a checklist of common prenatal tests categorised based on the trimester which they are performed. [Click here](https://youtu.be/XCYNbJiLoLc) to view the short video demonstrating this application.
 - #### Search
-  [search](https://youtu.be/KeuVnRVTVdk)
+ [CS50W project 0:](https://cs50.harvard.edu/web/2020/projects/0/search/) This project is creation my own front end for Google Search, done by exploring Google’s interface to identify what GET parameters it expects and adding the necessary HTML and CSS to my website. [Click here](https://youtu.be/KeuVnRVTVdk) to view the short video demonstrating this application.
 - #### Wiki
-  [wiki](https://youtu.be/Uh2XZtahWow)
+  CS50W project 1: [Click here](https://youtu.be/Uh2XZtahWow) to view the short video demonstrating this application.
 - #### Commerce
   [commerce](https://youtu.be/OMKejzLp_oI)
 - #### Mail
