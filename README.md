@@ -2,7 +2,8 @@
 ### Summary
 My web apps
 ### projects
-- intro final project (brief description and youtube url)[Mental Health Friendly](https://youtu.be/jlg6HBfeNPY)
+- Mental Health friendly
+  [Mental Health Friendly](https://youtu.be/jlg6HBfeNPY)
 - capstone[For Maternity](https://youtu.be/XCYNbJiLoLc)
 - search[search](https://youtu.be/KeuVnRVTVdk)
 - wiki[wiki](https://youtu.be/Uh2XZtahWow)
