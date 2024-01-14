@@ -4,9 +4,9 @@ Mechanical Engineering and computer science
 ### projects
 - intro final project (brief description and youtube url)
 - capstone
--search
--wiki
--commerce
--mail
--network
+- search
+- wiki
+- commerce
+- mail
+- network
 
