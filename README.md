@@ -9,11 +9,11 @@ I got introduced to computing skills and software development for the first time
 - #### Search
  [CS50W project 0:](https://cs50.harvard.edu/web/2020/projects/0/search/) This project is creation my own front end for Google Search, done by exploring Google’s interface to identify what GET parameters it expects and adding the necessary HTML and CSS to my website. [Click here](https://youtu.be/KeuVnRVTVdk) to view the short video demonstrating this application.
 - #### Wiki
-  CS50W project 1: [Click here](https://youtu.be/Uh2XZtahWow) to view the short video demonstrating this application.
+  [CS50W project 1:](https://cs50.harvard.edu/web/2020/projects/1/wiki/) This project is an implementation of my Wiki encyclopedia [Click here](https://youtu.be/Uh2XZtahWow) to view the short video demonstrating this application.
 - #### Commerce
-  [commerce](https://youtu.be/OMKejzLp_oI)
+  [CS50W project 2:](https://cs50.harvard.edu/web/2020/projects/2/commerce/) For this project, I have designed and implemented an eBay-like e-commerce auction site that will allow users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist.”[Click here](https://youtu.be/OMKejzLp_oI) to view the short video demonstrating this application.
 - #### Mail
-  [mail](https://youtu.be/tXXOJGI3h70)
+  [CS50W project 3:](https://cs50.harvard.edu/web/2020/projects/3/mail/) For this project I have designed and implemented a front-end for an email client that makes API calls to send and receive emails. [Click here](https://youtu.be/tXXOJGI3h70) to view the short video demonstrating this application.
 - #### Network
-  [network](https://youtu.be/9DX5MGQJwzk)
+  [CS50W project 4:](https://cs50.harvard.edu/web/2020/projects/4/network/) For this project I have designed and implemented a Twitter-like social network website for making posts and following users. [Click here](https://youtu.be/9DX5MGQJwzk) to view the short video demonstrating this application.
 
