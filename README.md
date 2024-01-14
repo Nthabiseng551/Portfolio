@@ -1,6 +1,6 @@
 # Software Developer
-### Education
-Mechanical Engineering and computer science
+### Summary
+My web apps
 ### projects
 - intro final project (brief description and youtube url)
 - capstone
